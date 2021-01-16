@@ -1,0 +1,67 @@
+.travel_maindiv img {
+    width: 100%;
+}
+
+.travel_maindiv hr {
+    width: 230px;
+}
+.movie_head {
+    font font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.env_li {
+    margin-top: 15px;
+}
+
+.env_li h4 {
+    border-bottom: 1px solid red;
+    padding: 8px;
+}
+
+.env_li img {
+    border-radius: 25px;
+}
+
+.env_li p {
+    margin-top: 10px;
+}
+
+.contacts1 a {
+    text-shadow: 2px;
+}
+
+#contacts iframe {
+    width: 100%;
+}
+
+.img_modal {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.modal-dialog {
+    background-color: white;
+}
+
+.book img {
+    width: 400px;
+    height: 500px;
+}
